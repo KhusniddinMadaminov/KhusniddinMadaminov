@@ -13,7 +13,7 @@ I'm Android developer from the Khorezm, Uzbekistan!
 
 ## Let's Connect
 
-[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='28'>](https://www.linkedin.com/in/husniddin-madaminov-683366197/)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' alt='telegram' height='28'>](https://t.me/HusniddinMadaminov)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg' alt='stackoverflow' height='28'>](https://stackoverflow.com/users/12213891/husniddin-madaminov)&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' alt='linkedin' height='28'>](https://www.linkedin.com/in/husniddin-madaminov-683366197/)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg' alt='telegram' height='28'>](https://t.me/HusniddinMadaminov)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg' alt='stackoverflow' height='28'>](https://stackoverflow.com/users/12213891/husniddin-madaminov)&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg' alt='github' height='28'>](https://github.com/KhusniddinMadaminov)&nbsp;  
 
 
