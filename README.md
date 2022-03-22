@@ -1,4 +1,4 @@
-### Assalamu alaykum 👋
+### Assalamu alaykum, I'm Khusniddin Madaminov 👋
 
 <!--
 **KhusniddinMadaminov/KhusniddinMadaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
