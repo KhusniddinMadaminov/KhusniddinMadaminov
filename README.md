@@ -1,5 +1,15 @@
-### Assalamu alaykum, I'm Khusniddin Madaminov 👋
+# Assalamu alaykum, I'm Khusniddin Madaminov (:coffee::computer::heart:)
 
+I'm Android developer from the Khorezm, Uzbekistan!
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m currently working on Fido Businnes LLC
+- 🌱 I’m currently learning Arabic
+- 👯 I’m looking to help on Arabic
+- 💬 Ask me about Android
+- 📫 How to reach me: [madaminov0998@gmail.com](mailto:madaminov0998@gmail.com)
+- ⚡ Fun fact: I love design!
 <!--
 **KhusniddinMadaminov/KhusniddinMadaminov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
