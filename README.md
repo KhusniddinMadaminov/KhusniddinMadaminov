@@ -11,7 +11,7 @@ I'm Android developer from the Khorezm, Uzbekistan!
 - 📫 How to reach me: [madaminov0998@gmail.com](mailto:madaminov0998@gmail.com)
 - ⚡ Fun fact: I love design!
 
-## Let's Connect <img src="https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/socials.png" width=40 height=40 /> 
+## Let's Connect
 
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_social_media_isometric_14-linkedin_3529657.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/husniddin-madaminov-683366197/)&nbsp;[<img src='https://github.com/KhusniddinMadaminov/KhusniddinMadaminov/blob/main/telegram-1.svg' alt='telegram' height='40'>](https://t.me/HusniddinMadaminov)&nbsp;[<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder_StackOverflow_2613280.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12213891/husniddin-madaminov)&nbsp;
 [<img src='https://github.com/sourabmaity/sourabmaity/blob/main/assets/logo/iconfinder__github_1156638.png' alt='github' height='40'>](https://github.com/KhusniddinMadaminov)&nbsp;  
